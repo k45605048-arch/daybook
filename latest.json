@@ -1,7 +1,7 @@
 {
-  "version": "1.1.8",
-  "url": "https://github.com/k45605048-arch/daybook/raw/windows-installer/Daybook-Setup-1.1.8.exe",
-  "sha256": "52ee2d851edfa62d4a0c270a5870114aea3ceb0200d3e34d0918c7619de767c8",
-  "size": 89302835,
-  "notes": "Различимые цвета настроения, круглые даты, мягкие углы"
+  "version": "1.1.9",
+  "url": "https://github.com/k45605048-arch/daybook/raw/windows-installer/Daybook-Setup-1.1.9.exe",
+  "sha256": "6492b604aeec3af53b4959c258ae70abc5b215b8b7f826794bea39d9f64804aa",
+  "size": 89305620,
+  "notes": "Прозрачные скруглённые углы окна без чёрной рамки"
 }
