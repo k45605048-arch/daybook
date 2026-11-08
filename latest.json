@@ -1,7 +1,7 @@
 {
-  "version": "1.1.1",
-  "url": "https://github.com/k45605048-arch/daybook/raw/windows-installer/Daybook-Setup-1.1.1.exe",
-  "sha256": "a6d9eb2de24c72d6f017ce003dbe33fcf6d8b7a4f9fb43c40a8b6fda44443acc",
-  "size": 89297933,
-  "notes": "Банкнота на фоне финансов, напоминания стали розовыми"
+  "version": "1.1.2",
+  "url": "https://github.com/k45605048-arch/daybook/raw/windows-installer/Daybook-Setup-1.1.2.exe",
+  "sha256": "8ed6f5f2eaedd27849bf84f25d6c31624f5b9884429abe8848163622f5c19326",
+  "size": 89299287,
+  "notes": "Купюра показывается только в разделе Финансы"
 }
