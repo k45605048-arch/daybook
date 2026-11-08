@@ -1,7 +1,7 @@
 {
-  "version": "1.2.2",
-  "url": "https://github.com/k45605048-arch/daybook/raw/windows-installer/Daybook-Setup-1.2.2.exe",
-  "sha256": "5359258dde83289e89011cb4603b96b1ba0c34a6371a2651e3812fd266da0502",
-  "size": 89302978,
-  "notes": "Настройки под шестерёнкой, свой фон для каждого раздела, колонны продолжаются из раздела в раздел"
+  "version": "1.2.3",
+  "url": "https://github.com/k45605048-arch/daybook/raw/windows-installer/Daybook-Setup-1.2.3.exe",
+  "sha256": "f8d078108dfe791ac1cfa297907b2f4afa90722f52ea7f3a0351c946ed29f09b",
+  "size": 89305669,
+  "notes": "Задачи на день с выбором важности, быстрые идеи и метки в заметках"
 }
