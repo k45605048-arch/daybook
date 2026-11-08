@@ -1,7 +1,7 @@
 {
-  "version": "1.1.7",
-  "url": "https://github.com/k45605048-arch/daybook/raw/windows-installer/Daybook-Setup-1.1.7.exe",
-  "sha256": "ebb3499d3fd1cb8ff52ad931c23bd9098b562c9ce2024a013f765ebce7723c17",
-  "size": 89303849,
-  "notes": "Надёжное обновление: докачка при обрыве связи, понятные сообщения, скачивание вручную"
+  "version": "1.1.8",
+  "url": "https://github.com/k45605048-arch/daybook/raw/windows-installer/Daybook-Setup-1.1.8.exe",
+  "sha256": "52ee2d851edfa62d4a0c270a5870114aea3ceb0200d3e34d0918c7619de767c8",
+  "size": 89302835,
+  "notes": "Различимые цвета настроения, круглые даты, мягкие углы"
 }
