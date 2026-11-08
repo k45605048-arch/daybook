@@ -1,7 +1,7 @@
 {
-  "version": "1.1.4",
-  "url": "https://github.com/k45605048-arch/daybook/raw/windows-installer/Daybook-Setup-1.1.4.exe",
-  "sha256": "4fff2196ebe2dd4a57b1c588df34add76e84e2aab2e5cc36457ba1352dce1a62",
-  "size": 89297904,
-  "notes": "Меньше надписей Daybook, дата в дневнике мельче"
+  "version": "1.1.5",
+  "url": "https://github.com/k45605048-arch/daybook/raw/windows-installer/Daybook-Setup-1.1.5.exe",
+  "sha256": "23b95f7efdd0df098432628f05479a9b4b114c5e2b2d0739f4dbdd6b0a3115b7",
+  "size": 89298479,
+  "notes": "Надёжный запуск: окно всегда появляется, обновление ставится после полного закрытия"
 }
