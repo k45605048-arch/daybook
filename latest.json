@@ -1,7 +1,7 @@
 {
-  "version": "1.2.1",
-  "url": "https://github.com/k45605048-arch/daybook/raw/windows-installer/Daybook-Setup-1.2.1.exe",
-  "sha256": "abef853b4b28067401739ab4c54f4c31027610b086685dfef5793dc415002b6d",
-  "size": 89302633,
-  "notes": "Круглые значки разделов вместо широкой панели, размытая Медуза на других вкладках"
+  "version": "1.2.2",
+  "url": "https://github.com/k45605048-arch/daybook/raw/windows-installer/Daybook-Setup-1.2.2.exe",
+  "sha256": "5359258dde83289e89011cb4603b96b1ba0c34a6371a2651e3812fd266da0502",
+  "size": 89302978,
+  "notes": "Настройки под шестерёнкой, свой фон для каждого раздела, колонны продолжаются из раздела в раздел"
 }
