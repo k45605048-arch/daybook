@@ -1,7 +1,7 @@
 {
-  "version": "1.1.0",
-  "url": "https://github.com/k45605048-arch/daybook/raw/windows-installer/Daybook-Setup-1.1.0.exe",
-  "sha256": "6261045c3bf784f9eb93ae73a8d906d8914f8d3112779c79293747f439949fc0",
-  "size": 89257115,
-  "notes": "Своя шапка и цвет у каждого раздела, фон для финансов"
+  "version": "1.1.1",
+  "url": "https://github.com/k45605048-arch/daybook/raw/windows-installer/Daybook-Setup-1.1.1.exe",
+  "sha256": "a6d9eb2de24c72d6f017ce003dbe33fcf6d8b7a4f9fb43c40a8b6fda44443acc",
+  "size": 89297933,
+  "notes": "Банкнота на фоне финансов, напоминания стали розовыми"
 }
