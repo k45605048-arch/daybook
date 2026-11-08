@@ -1,7 +1,7 @@
 {
-  "version": "1.1.9",
-  "url": "https://github.com/k45605048-arch/daybook/raw/windows-installer/Daybook-Setup-1.1.9.exe",
-  "sha256": "6492b604aeec3af53b4959c258ae70abc5b215b8b7f826794bea39d9f64804aa",
-  "size": 89305620,
-  "notes": "Прозрачные скруглённые углы окна без чёрной рамки"
+  "version": "1.2.0",
+  "url": "https://github.com/k45605048-arch/daybook/raw/windows-installer/Daybook-Setup-1.2.0.exe",
+  "sha256": "2f87017d72be312db5fb4193eb2260dff3892c6b6d4037d14ec900959a2dfd64",
+  "size": 89303344,
+  "notes": "Ползунок внутри скругления, без ползунка на экране блокировки, без даты в шапке дневника"
 }
