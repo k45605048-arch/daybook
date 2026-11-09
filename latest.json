@@ -1,7 +1,7 @@
 {
-  "version": "1.2.6",
-  "url": "https://github.com/k45605048-arch/daybook/raw/windows-installer/Daybook-Setup-1.2.6.exe",
-  "sha256": "d863c0009455d12f3d256691e4a6be68adb8158f3e80d2bdef9584453c6c66fc",
-  "size": 89310525,
-  "notes": "Невыполненные задачи сами переносятся на сегодня с пометкой"
+  "version": "1.2.7",
+  "url": "https://github.com/k45605048-arch/daybook/raw/windows-installer/Daybook-Setup-1.2.7.exe",
+  "sha256": "be0a6eda37217790a705e1648a62ca34c8d180894f22702161aef23e51877f21",
+  "size": 89307225,
+  "notes": "Колонны на экране блокировки и по высоте окна, картинка блокировки без лишнего, компактная полоса значков"
 }
