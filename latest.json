@@ -1,7 +1,7 @@
 {
-  "version": "1.2.4",
-  "url": "https://github.com/k45605048-arch/daybook/raw/windows-installer/Daybook-Setup-1.2.4.exe",
-  "sha256": "b13b4d32aed06774c302253428ec19c893de6bdcee4ca02b7d0ac6ed31209ac3",
-  "size": 89305652,
-  "notes": "Исправление задач в списке, выбор времени напоминаний, размытый общий фон, меню копирования"
+  "version": "1.2.5",
+  "url": "https://github.com/k45605048-arch/daybook/raw/windows-installer/Daybook-Setup-1.2.5.exe",
+  "sha256": "0f240f6087c160a39616bf7221ec86a3a398e5ae53132fc8c2a76b4b9b0cf810",
+  "size": 89305959,
+  "notes": "Колонны с капителью и основанием при любом фоне, сменяющиеся девизы в каждом разделе"
 }
