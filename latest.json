@@ -1,7 +1,7 @@
 {
-  "version": "1.2.8",
-  "url": "https://github.com/k45605048-arch/daybook/raw/windows-installer/Daybook-Setup-1.2.8.exe",
-  "sha256": "43683ab0e349437e1c9b4626433418751ef7664b92fcfe5866c3e4a06ee95c4c",
-  "size": 89570780,
-  "notes": "Плавная смена дней, новая эмблема программы, своя аватарка"
+  "version": "1.2.9",
+  "url": "https://github.com/k45605048-arch/daybook/raw/windows-installer/Daybook-Setup-1.2.9.exe",
+  "sha256": "7b9ba6272151d30af83a1405dca9dd8e1b74af735d40333318d00be2c77eda79",
+  "size": 89655755,
+  "notes": "Новая эмблема на ярлыках рабочего стола и меню Пуск"
 }
