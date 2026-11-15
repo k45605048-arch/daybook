@@ -1,7 +1,7 @@
 {
-  "version": "1.2.9",
-  "url": "https://github.com/k45605048-arch/daybook/raw/windows-installer/Daybook-Setup-1.2.9.exe",
-  "sha256": "7b9ba6272151d30af83a1405dca9dd8e1b74af735d40333318d00be2c77eda79",
-  "size": 89655755,
-  "notes": "Новая эмблема на ярлыках рабочего стола и меню Пуск"
+  "version": "1.3.0",
+  "url": "https://github.com/k45605048-arch/daybook/raw/windows-installer/Daybook-Setup-1.3.0.exe",
+  "sha256": "c778260d6bbc35ba04dac742acdfe69b2533302cb470b560f473b638d1397191",
+  "size": 89653026,
+  "notes": "Карусель дней: бегунок по неделе и лента дней"
 }
